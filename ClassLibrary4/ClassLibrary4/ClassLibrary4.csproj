@@ -1,9 +1,18 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net9.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net9.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<PackageId>ClassLibrary4</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>ASKurgan</Authors>
+		<Company>ASKurgan</Company>
+		<PackageDescription>
+			ClassLibrary4
+		</PackageDescription>
+		<RepositoryUrl>https://github.com/ASKurgan/ASKTrainingApp</RepositoryUrl>
+		<GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+	</PropertyGroup>
 
 </Project>
