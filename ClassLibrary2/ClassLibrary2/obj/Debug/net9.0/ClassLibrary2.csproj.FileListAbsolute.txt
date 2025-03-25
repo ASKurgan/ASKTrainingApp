@@ -1,0 +1,11 @@
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\bin\Debug\net9.0\ClassLibrary2.deps.json
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\bin\Debug\net9.0\ClassLibrary2.dll
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\bin\Debug\net9.0\ClassLibrary2.pdb
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.AssemblyInfo.cs
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.dll
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\obj\Debug\net9.0\refint\ClassLibrary2.dll
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\obj\Debug\net9.0\ClassLibrary2.pdb
+C:\Source\ASKurgan_sachkov-tech\ASKTrainingApp\ClassLibrary2\ClassLibrary2\obj\Debug\net9.0\ref\ClassLibrary2.dll
